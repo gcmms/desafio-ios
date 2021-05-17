@@ -16,6 +16,22 @@ Faça um fork do projeto para a sua conta e clone-o para o seu ambiente de traba
 # Instruções
 Contrua um app que exiba os cartões na tela principal e apos clicar exiba o extrato do cartão. O layout da tela e a API para consumir estão nos links abaixo.
 
+## Na dashboard, o usuário verá :
+
+<p align="left">
+  <img src="wireframes/01.png" width="350"/>
+</p>
+
+- Exibir a lista de cartão no formato carrossel (um do lado do outro)
+- Exibir no cartão o saldo
+- Ao clicar no cartão 
+
+## Extrato :
+<p align="left">
+  <img src="wireframes/02.png" width="350"/>
+</p>
+
+- Exibir o saldo conforme layout no figma separado por mês
 
 ## A API da Dashboard 
 API de conteúdo: https://raw.githubusercontent.com/gcmms/desafio-ios/master/api/dashboard.json
