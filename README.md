@@ -20,6 +20,9 @@ Contrua um app que exiba os cartões na tela principal e apos clicar exiba o ext
 ## A API da Dashboard 
 API de conteúdo: 
 
+## Layout
+Figma : https://www.figma.com/file/23cbubUfTFQ2rta1JswwMq/Desafio-Ticket?node-id=0%3A1
+
 # O que será avaliado
 
 * Design patterns
